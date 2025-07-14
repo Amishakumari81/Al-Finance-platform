@@ -4,7 +4,7 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+<img width="1343" height="689" alt="Image" src="https://github.com/user-attachments/assets/46da6370-8988-43a2-b539-ad76bec91121">
 
 ---
 
